@@ -34,6 +34,11 @@ function Skills() {
           alt="Node.js logo"
           label="Node.js"
         />
+         <Card
+          src="/Express.png"
+          alt="Express.js logo"
+          label="Express.js"
+        />
         <Card
           src="/MongoDB.png"
           alt="MongoDB logo"
