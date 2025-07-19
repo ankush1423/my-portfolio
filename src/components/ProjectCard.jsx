@@ -33,7 +33,6 @@ function ProjectCard({
                 </svg>
             </Link>
         </div>
-
     )
 }
 
